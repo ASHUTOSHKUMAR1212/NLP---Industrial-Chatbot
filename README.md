@@ -1,11 +1,9 @@
-# NLP---Industrial-Chatbot
+# NLP- Industrial Hazardous Accident Detection-
 
-Industrial Safety NLP Chatbot
-
-This project aims to design a machine learning/deep learning-based chatbot to help professionals highlight safety risks from incident descriptions in an industrial setting. The dataset includes accident records from 12 different plants across 3 countries, detailing the severity of accidents, their potential severity, and the context in which they occurred.
+This project aims to design a machine learning/deep learning-based system to analyze industrial accident records and predict potential safety risks. The dataset includes accident records from 12 different plants across 3 countries, detailing the severity of accidents, their potential severity, and the context in which they occurred.
 Problem Statement
 
-Industries worldwide face ongoing challenges related to accidents, often leading to severe injuries or fatalities. This project seeks to address the need for a tool that can analyze incident descriptions and predict safety risks.
+Industries worldwide face ongoing challenges related to accidents, often leading to severe injuries or fatalities. This project seeks to address the need for a tool that can analyze incident descriptions and predict safety risks to mitigate future accidents.
 Dataset
 
     Source: Industrial Safety and Health Analytics Database on Kaggle
@@ -23,12 +21,7 @@ Milestone 2
 
     Neural Networks & RNN/LSTM Classifiers
     Model Selection & Pickling
-    Final Report Submission
-
-Milestone 3 (Optional)
-
-    Build a clickable UI-based chatbot interface.
-
+    
 Technologies Used
 
     Python
