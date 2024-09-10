@@ -26,7 +26,7 @@ Technologies Used
 
     Python
     NLP Techniques
-    Machine Learning (Random Forest, SVM, etc.)
+    Machine Learning (Random Forest, SVM, Logistic Regression, Gradient Boosting, XG boost, Bagging, KNN,Ridge Classifier,Ada-Boost.)
     Deep Learning (RNN, LSTM)
     TensorFlow/Keras
     Pandas, NumPy
